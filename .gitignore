@@ -1,0 +1,6 @@
+proyecto001/
+__pycache__/
+*.pyc
+config.yaml
+.env
+.aws/
